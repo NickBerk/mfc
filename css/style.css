@@ -20,8 +20,13 @@ nav>a{
 	float: left;
 	text-decoration: none;
 	font-style: 14px;
-	padding: 18px 10px;
+	padding: 16px 10px;
+	color: white;
+	border-left: 1px solid #31598c;
+}
 
+nav>a>li{
+	list-style: none;
 }
 
 header>.logo{
@@ -33,5 +38,10 @@ header>.logo{
 }
 
 .logo>img{
-	max-height: 40px;
+	max-height: 37px;
+}
+
+nav>a:hover{     
+	background-color: #41699C;
+    filter: hue-rotate(135deg);
 }
