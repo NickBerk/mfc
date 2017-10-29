@@ -3,14 +3,27 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Архив</title>
+	<link rel="stylesheet" href="css/ff.css">
+	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 	<header>
+		<div class="logo"><img src="img/logo.png" alt=""></div>
 		<nav>
-			<li>Link 1</li>
-			<li>Link 2</li>
-			<li>Link 3</li>
-			<li>Link 4</li>
-			<li>Link 5</li>	
+			<a href="">
+				<li>Link 1</li>
+			</a>
+			<a href="">
+				<li>Link 2</li>
+			</a>
+			<a href="">
+				<li>Link 3</li>
+			</a>
+			<a href="">
+				<li>Link 4</li>
+			</a>
+			<a href="">
+				<li>Link 5</li>
+			</a>	
 		</nav>
 	</header>

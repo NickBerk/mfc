@@ -1,5 +1,5 @@
 <?php
-	require_once "head.php";
+	require_once "tmp/head.php";
 ?>
 
 <div class="content">
@@ -7,5 +7,5 @@
 </div>
 
 <?php
-	require_once "foo.php";
+ 	require_once "tmp/foo.php";
 ?>
